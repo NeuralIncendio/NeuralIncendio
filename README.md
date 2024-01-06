@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Sina](https://github.com/sinamoghimi73)
+- 👋 Hi, I’m Sina
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently teaching Deep Learning 
 - 📫 You can reach me at [my email address](mailto:neuralincendio@gmail.com)
