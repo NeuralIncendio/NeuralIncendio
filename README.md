@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sina
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently teaching Deep Learning and working as a Robotics Engineer.
+- 🌱 I’m currently teaching Deep Learning and working as a Computer Vision Engineer.
 - 📫 You can reach me at [my email address](mailto:neuralincendio@gmail.com)
 
 <div align="center">
